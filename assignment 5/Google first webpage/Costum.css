@@ -1,0 +1,100 @@
+body{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+
+.align-center{
+    text-align: center;
+    margin-top: 100px;
+}
+
+a{
+    font-weight: bold;
+    color: rgb(97, 91, 91);
+    padding: 5px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.header{
+    text-align: right;
+}
+
+.button1:hover{
+    background-color: #3a77da;
+}
+
+.button2:hover{
+    background-color: #ebe2e2;
+    border-radius: 2pt;
+}
+
+.signin{
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    border-radius: 5pt;
+    width: 80px;
+    height: 30px;
+}
+
+.footer{
+    background-color: rgb(218, 215, 215);
+    color: rgb(97, 91, 91);
+    height: 40px;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+}
+
+.middle{
+    position: relative;
+    margin-top: 8px;
+}
+
+.footer-txt{
+    font-size: 12px;
+    padding: 5px;
+}
+
+.right{
+    padding-left: 900px;
+}
+
+.button-style{
+   background-color: azure;
+   border: none;
+    
+}
+
+.search-box{
+    width: 420px;
+    height: 35px;
+    border-radius: 15pt;
+    border-color: rgb(233, 225, 225);
+    border-style: solid;
+    border-width: 1px;     
+    text-align: center;     
+}
+
+.voice-search{
+    width: 12px;
+    border: none;
+    position: fixed;
+    margin-left: -40px;
+    margin-top: 8px;
+}
+
+.voice-search:hover{
+    background-color: rgb(212, 208, 208);
+}
+
+.search-icon{
+    width: 15px;
+    border: none;
+    position: fixed;
+    margin-left: -410px;
+    margin-top: 10px;
+}

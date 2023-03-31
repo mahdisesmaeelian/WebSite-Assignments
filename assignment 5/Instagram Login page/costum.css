@@ -1,0 +1,55 @@
+.back_color{
+    background: linear-gradient(0deg, rgba(63,94,251,1) 18%, rgba(63,94,251,1) 24%, rgba(193,79,233,1) 46%, rgba(189,41,96,1) 99%);
+    height: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login_box{
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    position: relative;
+    top: 20%;
+    left: 500px;
+}
+
+.txt{
+    background-color: rgb(247, 239, 239);
+    border: none;
+    border-radius: 2px;
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.login_btn{
+    color: white;
+    background-color: rgba(189,41,96,1);
+    border: none;
+    border-radius: 2px;
+    width: 200px;
+    height: 30px;
+     font-weight: bold;
+}
+
+.social_btn{
+    border-color:azure;
+    background-color: white;
+    border-radius: 2px;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.font-shape{
+    color: gray;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.checkbtn{
+    margin-left: -100px;
+}
+
+.mb{
+    margin-top: 100px;
+}  
